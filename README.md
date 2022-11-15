@@ -26,4 +26,4 @@ Create Navbar, Hero & Footer components. Create a data file to save the home-pag
 
 Add custom screen layout in `tailwind.config.js` and adjust the image layout in the hero section.
 
-
+Populate the hero section and the Navbar section. Minify the nav menus to the large screen resolution. Create a Popup component to expand the menu button in smaller screens.

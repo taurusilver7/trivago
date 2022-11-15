@@ -47,9 +47,9 @@ export const navlinks = [
 ];
 
 export const hero = {
-	title: "Its a Gig World Out",
-	subtitle: "Then, Go Explore",
-	text: "We provide you always your dream places. We always make our customer happy by proving many choices.",
+	title: "Its a Giant World.",
+	subtitle: "Go, Explore.",
+	text: "We provide your dream places. We make our customers satisfied by providing multiple choices.",
 	btn1: "Get Started",
 	btn2: "Get Demo",
 	img: dashboard,

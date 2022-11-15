@@ -23,9 +23,19 @@
 		@apply bg-gradient-to-b from-emerald-500 to-green-500 shadow-emerald-500 text-white;
 	}
 	.button-light {
-		@apply bg-gradient-to-b from-white to-slate-100 shadow-slate-100 text-black;
+		@apply bg-gradient-to-b from-white to-slate-100 shadow-slate-200 text-black;
 	}
 	.drop-shadow-emerald {
 		filter: drop-shadow(0.1rem, 0.1rem, 1rem rgba(74 222 128 / 80%));
+	}
+	.showpopup {
+		opacity: 1;
+		visibility: visible;
+		transform: skewY(0deg) translateY(10px);
+	}
+	.nopopup {
+		opacity: 0;
+		visibility: hidden;
+		transform: skewY(3deg) translateY(-30px);
 	}
 }

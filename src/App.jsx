@@ -1,14 +1,16 @@
 import React from "react";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
+import Memory from "./components/Memory";
 import Navbar from "./components/Navbar";
-import { hero } from "./data/travigo-data";
+import { hero, navlinks, memory } from "./data/travigo-data";
 
 function App() {
 	return (
 		<div className="">
-			<Navbar />
+			<Navbar navlinks={navlinks} />
 			<Hero hero={hero} />
+			<Memory memory={memory} />
 			<Footer />
 		</div>
 	);

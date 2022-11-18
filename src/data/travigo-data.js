@@ -62,8 +62,8 @@ export const memory = {
 	img: memoryimg,
 	experience: [
 		{ number: "10", title: "Year Experience" },
-		{ number: "400", title: "Year Collaboration" },
-		{ number: "30k+", title: "Happy Customer" },
+		{ number: "400", title: "Collaborators" },
+		{ number: "30K+", title: "Happy Customer" },
 	],
 };
 

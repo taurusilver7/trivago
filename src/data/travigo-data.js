@@ -47,7 +47,7 @@ export const navlinks = [
 ];
 
 export const hero = {
-	title: "Its a Giant World.",
+	title: "Its a Giant World",
 	subtitle: "Go, Explore.",
 	text: "We provide your dream places. We make our customers satisfied by providing multiple choices.",
 	btn1: "Get Started",
@@ -57,7 +57,7 @@ export const hero = {
 
 export const memory = {
 	title: "Sweet Memories",
-	subtitle: "Come To Life Again",
+	subtitle: "Come back To Life.",
 	text: "What we have always taken care for 10 years is always prioritizing the comfort of our users. So, do not our quality.",
 	img: memoryimg,
 	experience: [
@@ -68,16 +68,16 @@ export const memory = {
 };
 
 export const placesAPI = [
-	{ placeImg: place1, location: "Lahore", distance: "3.0 hour dirve" },
-	{ placeImg: place2, location: "Faisalabad", distance: "2.5 hour dirve" },
-	{ placeImg: place3, location: "Multan", distance: "4.7 hour drive" },
-	{ placeImg: place4, location: "Rawalpindi", distance: "4 hour drive" },
-	{ placeImg: place5, location: "Islamabad", distance: "4.9 hour drive" },
-	{ placeImg: place6, location: "Muree", distance: "4.5 hour drive" },
-	{ placeImg: place7, location: "Nathia Gali", distance: "5.5 hour drive" },
-	{ placeImg: place8, location: "Ayubia Gali", distance: "5.1 hour drive" },
-	{ placeImg: place9, location: "Bhurban", distance: "5.1 hour drive" },
-	{ placeImg: place10, location: "Gilgit", distance: "5.1 hour drive" },
+	{ placeImg: place1, location: "Hyderabad", distance: "3 hour drive" },
+	{ placeImg: place2, location: "Ahmedabad", distance: "5.5 hour drive" },
+	{ placeImg: place3, location: "Nagpur", distance: "4.7 hour drive" },
+	{ placeImg: place4, location: "Shiridi", distance: "4 hour drive" },
+	{ placeImg: place5, location: "Chennai", distance: "6 hour drive" },
+	{ placeImg: place6, location: "Kochi", distance: "6.5 hour drive" },
+	{ placeImg: place7, location: "Kolkata", distance: "8.5 hour drive" },
+	{ placeImg: place8, location: "Visakhapatnam", distance: "5 hour drive" },
+	{ placeImg: place9, location: "Jaipur", distance: "10 hour drive" },
+	{ placeImg: place10, location: "Mumbai", distance: "5 hour drive" },
 ];
 
 export const pricingapi = {
@@ -106,7 +106,7 @@ export const pricingapi = {
 			planicon: preminumicon,
 			title: "Preminum Membership",
 			text: "Suitable for enthusiast travelers",
-			plantype: "$60 / Year",
+			plantype: "₹6000 / Year",
 			plancontent: [
 				{ iconbox: checkbox, text: "Find Popular Destination" },
 				{ iconbox: checkbox, text: "Priority Booking Schedule" },
@@ -122,8 +122,8 @@ export const pricingapi = {
 };
 
 export const bannerAPI = {
-	title: "The Greet Outdoors",
-	text: "Whislist Curated By Travigo.",
+	title: "The Great Outdoors",
+	text: "Whislist Curated By Trivago.",
 	imgSrc: banner,
 	btnText: "Explore More",
 };
@@ -138,7 +138,7 @@ export const footerAPI = {
 			{ link: "Menu" },
 		],
 		[
-			{ link: "Why Travigo?" },
+			{ link: "Why Trivago?" },
 			{ link: "Partner with Us" },
 			{ link: "FAQ" },
 			{ link: "Blog" },

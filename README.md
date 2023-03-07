@@ -2,6 +2,8 @@
 
 > A modern Travel Agency Web App built using React JS, Tailwindcss & Vite configuration.
 
+![Trivago Travel Agency](https://www.linkpicture.com/q/Screenshot-95_1.png)
+
 ## Scripts
 
 ```bash
